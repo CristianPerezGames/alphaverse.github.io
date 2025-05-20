@@ -1,9 +1,9 @@
 const cacheName = "CBI-WebtoolServersEnables-0.1.0";
 const contentToCache = [
-    "Build/Webgl.loader.js",
-    "Build/Webgl.framework.js",
-    "Build/Webgl.data",
-    "Build/Webgl.wasm",
+    "Build/Build_Webtool.loader.js",
+    "Build/Build_Webtool.framework.js",
+    "Build/Build_Webtool.data",
+    "Build/Build_Webtool.wasm",
     "TemplateData/style.css"
 
 ];
